@@ -1,4 +1,0 @@
-{
-  "allow": ["exec", "slack", "memory_search", "memory_get", "read"],
-  "deny": ["admin_*", "shell"]
-}
